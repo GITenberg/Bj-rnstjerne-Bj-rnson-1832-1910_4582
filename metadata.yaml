@@ -1,0 +1,25 @@
+_repo: Bj-rnstjerne-Bj-rnson-1832-1910_4582
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Payne, William Morton
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '1512'
+    url: http://www.gutenberg.org/2009/agents/1512
+    wikipedia: http://en.wikipedia.org/wiki/William_Morton_Payne
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bjørnson, Bjørnstjerne, 1832-1910'
+- !lcc 'PT'
+- GITenberg
+title: Björnstjerne Björnson, 1832-1910
+url: http://www.gutenberg.org/ebooks/4582
